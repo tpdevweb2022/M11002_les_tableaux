@@ -4,3 +4,10 @@
 $arrayEleves = [];
 
 // Ici vos scripts PHP
+$arrayEleves["Angela"] = [
+    "Histoire"  => 12,
+    "Français"  => 11,
+    "Maths"     => 13,
+    "Anglais"   => 6
+];
+// ...
